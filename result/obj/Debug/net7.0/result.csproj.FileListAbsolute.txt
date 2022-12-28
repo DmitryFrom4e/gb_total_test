@@ -1,0 +1,15 @@
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.csproj.AssemblyReference.cache
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.AssemblyInfoInputs.cache
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.AssemblyInfo.cs
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.csproj.CoreCompileInputs.cache
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\bin\Debug\net7.0\result.exe
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\bin\Debug\net7.0\result.deps.json
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\bin\Debug\net7.0\result.runtimeconfig.json
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\bin\Debug\net7.0\result.dll
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\bin\Debug\net7.0\result.pdb
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.dll
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\refint\result.dll
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.pdb
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\result.genruntimeconfig.cache
+C:\Users\dim_o\Desktop\GeekBrains\2022new\1 четверть\total_test\result\obj\Debug\net7.0\ref\result.dll
